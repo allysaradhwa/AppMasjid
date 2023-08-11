@@ -1,0 +1,64 @@
+.colornav {
+    background-color: rgb(15, 194, 134);
+}
+
+/* warna untuk navbar */
+.nav-link:hover {
+    background-color: rgb(39, 46, 46);
+    border-radius: 2px;
+}
+
+.paraf {
+    font-size: 12px;
+}
+
+
+/* Navbar atas */
+.byg {
+    box-shadow: 0 0 3px rgb(26, 25, 25);
+    height: 70px;
+}
+
+.byg1 {
+    box-shadow: 0 0 3px rgb(26, 25, 25);
+}
+
+.warna1 {
+    background-color: rgb(15, 194, 134);
+}
+
+.tulisan1 {
+    font-size: 13px;
+}
+
+/* navbar atas */
+.bayang {
+    box-shadow: 0 0 3px 0 rgb(26, 24, 22);
+    height: 70px;
+}
+
+/* Tampilan data */
+.garisku {
+    height: 89px;
+    width: 3px;
+    position: absolute;
+}
+
+.card-body-icon {
+    position: absolute;
+    z-index: 0;
+    top: 39px;
+    right: 20px;
+    opacity: 0.5;
+}
+
+/* table */
+.warntb {
+    background-color: rgb(23, 196, 124);
+}
+
+.txtwrn {
+    color: rgb(23, 196, 124);
+}
+
+/* tampilan android */
